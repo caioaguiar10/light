@@ -1,0 +1,106 @@
+   body {
+    width: 1519px;
+    height: 1080px;
+   }
+
+   * {
+    margin: 0px;
+    padding: 0px;
+   }
+
+
+   .img1 {
+    position: absolute;
+width: 342px;
+height: 112.03px;
+left: 576px;
+top: 10px;
+   }
+
+   .img2{
+    position: absolute;
+width: 1402px;
+height: 506px;
+left: 60px;
+top: 225px;
+text-align: center;
+    
+   }
+
+   .img3{
+   position: absolute;
+width: 1402px;
+height: 302px;
+left: 50px;
+top: 685px;
+text-align: center;
+   }
+
+   .img4{
+    
+position: absolute;
+width: 343px;
+height: 35px;
+left: 1090px;
+top: 44px;
+
+   }
+   
+   .img5{
+   
+position: absolute;
+width: 37px;
+height: 30px;
+left: 32px;
+top: 44px;
+}
+
+.pesquisar {
+    position: absolute;
+width: 343px;
+height: 35px;
+left: 1090px;
+top: 44px;
+
+}
+
+.pesquisa {
+    background-color: #E7E5E5;
+    padding: 10px;
+    width: 300px;
+    border-radius: 20px;
+    border: none;
+}
+
+.lupe {
+position: absolute;
+width: 29px;
+height: 19px;
+left: 285px;
+top: 10px;
+}
+
+.p1{
+    position: absolute;
+
+left: 350px;
+top: 1020px;
+text-align: center;
+
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 12px;
+line-height: 29px;
+text-align: center;
+text-transform: capitalize;
+color: #0;
+}
+
+.rodape {
+    background-color: #CACACA;
+    margin-top: 990px ;
+    height: 50px;
+width: 1519px;
+}
